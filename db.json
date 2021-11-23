@@ -1,4 +1,6 @@
 {
+  "posts": [
+   {
   "errorMessage": null,
   "response": [
     {
@@ -64,5 +66,7 @@
         }
       ]
     }
+  ]
+}
   ]
 }
