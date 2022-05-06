@@ -1,4 +1,6 @@
 {
+  "posts": [
+{
   "documents": [
     {
       "documentId": "E018900589794",
@@ -19,4 +21,6 @@
       "documentDate": "03-07-2021"
     }
   ]
+  }
+ ]
 }
