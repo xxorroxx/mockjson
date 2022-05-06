@@ -1,72 +1,22 @@
 {
-  "posts": [
-   {
-  "errorMessage": null,
-  "response": [
+  "documents": [
     {
-      "cellularNumber": "97802935",
-      "billNumber": "97802935",
-      "status": "A",
-      "userName": "SANCHEZ, GERMAN",
-      "businessType": "CO",
-      "packageId": null,
-      "packageDescription": null,
-      "behaviourId": null,
-      "behaviourDescription": null,
-      "featureId": null,
-      "behavioursAvailableForLine": null
+      "documentId": "E018900589794",
+      "documentLetter": "A",
+      "documentType": "FCS",
+      "documentDate": "23-03-2022"
     },
     {
-      "cellularNumber": "97803202",
-      "billNumber": "97803202",
-      "status": "A",
-      "userName": "GOMEZ, LEONARDO",
-      "businessType": "CR",
-      "packageId": null,
-      "packageDescription": null,
-      "behaviourId": null,
-      "behaviourDescription": null,
-      "featureId": null,
-      "behavioursAvailableForLine": null
+      "documentId": "A019002106321",
+      "documentLetter": "A",
+      "documentType": "FCS",
+      "documentDate": "03-07-2021"
     },
     {
-      "cellularNumber": "97803783",
-      "billNumber": "97803783",
-      "status": "A",
-      "userName": "MARKOWSKYJ, JULIAN",
-      "businessType": "CR",
-      "packageId": null,
-      "packageDescription": null,
-      "behaviourId": null,
-      "behaviourDescription": null,
-      "featureId": null,
-      "behavioursAvailableForLine": null
-    },
-    {
-      "cellularNumber": "97989326",
-      "billNumber": "97989326",
-      "status": "A",
-      "userName": "BRAVO, JOHNNY",
-      "businessType": "CO",
-      "packageId": "PA30GB",
-      "packageDescription": "Internet 30 GB ",
-      "behaviourId": "REN-15GB",
-      "behaviourDescription": "Cuotas de 15GB",
-      "featureId": "1307",
-      "behavioursAvailableForLine": [
-        {
-          "behaviourId": "BLOQUEO",
-          "webVisibility": "Bloquear",
-          "featureId": "1307"
-        },
-        {
-          "behaviourId": "REN-30GB",
-          "webVisibility": "Cuotas de 30GB",
-          "featureId": "1307"
-        }
-      ]
+      "documentId": "D025900003674",
+      "documentLetter": "X",
+      "documentType": "FCS",
+      "documentDate": "03-07-2021"
     }
-  ]
-}
   ]
 }
